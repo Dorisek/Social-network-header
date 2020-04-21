@@ -1,0 +1,92 @@
+@media(max-width: 1080px){
+}
+header{
+    width:850px;
+    margin:0 auto;
+}    
+.big-blue-hearder{
+    height:520px ;
+    width: 850px;
+    border:10px;
+    background-color: blue;
+    box-sizing: content-box;
+}
+h1{
+    position: relative;
+    left:250px;
+    top: 460px;
+}
+.profile-photo{
+ height:200px ;
+ width: 200px;
+ border:10px ;
+ background-color: aqua;
+ position: relative;
+ top: 300px;
+ left: 20px;
+}
+.button-group{
+    position: relative;
+    left: 580px;
+    top: 195px;
+    margin: 0 auto;
+}
+.navbar{
+    position: relative;
+    left: 140px;
+    top: 0px;
+    margin: 0 auto;
+}
+li{
+    position: relative;
+    left: 40px ;
+    top:0px;
+    margin: 10px;
+    list-style: none;
+    float:left;
+}
+.box{
+    background-color: lightskyblue;
+    float: right;
+    width: 100px;
+    height: 100px;
+    top:620px;
+    border: 10px ;
+
+}
+main{
+    width:850px;
+    margin:0 auto;
+}
+.column1{
+    background-color: lightgreen;
+    float: right;
+    width: 512px;
+    height: 400px;
+    top:700px;
+    padding-bottom: 40px;
+}   
+.navbar2{
+    position: relative;
+    left: 140px;
+    top: 0px;
+    margin: 0 auto;
+    scroll-padding-left: 100px;
+}
+
+.column2 {
+    background-color: lightcyan;
+    float:left;
+    width:328px;
+    height: 200px;
+    top: 620px;
+}
+.apps{
+    background-color: lightcyan;
+    float:left;
+    width:628px;
+    height: 400px;
+    top: 620px;
+    
+}
+
